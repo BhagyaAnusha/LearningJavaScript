@@ -1,0 +1,19 @@
+{
+  "name": "practice.json",
+  "version": "1.0.0",
+  "description": "JavaScript learning and practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhagyaAnusha/LearningJavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhagyaAnusha/LearningJavaScript/issues"
+  },
+  "homepage": "https://github.com/BhagyaAnusha/LearningJavaScript#readme"
+}
